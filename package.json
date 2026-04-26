@@ -1,0 +1,19 @@
+{
+  "name": "project-management-app",
+  "version": "1.0.0",
+  "description": "a project management web app ",
+  "keywords": [
+    "backend",
+    "API"
+  ],
+  "license": "ISC",
+  "author": "syl3r",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "devDependencies": {
+    "prettier": "3.8.3"
+  }
+}
