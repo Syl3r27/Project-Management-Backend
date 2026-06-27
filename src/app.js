@@ -19,8 +19,6 @@ app.use(cors({
     allowedHeaders:["Content-Type", "Authorization"]
 }))
 
-// import the routes
-
 
 app.use("/api/v1/healthcheck",healthCheckRouter)
 
